@@ -30,6 +30,6 @@
 </a>
 
 <a  href="https://www.facebook.com/profile.php?id=100017071926582" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/410ff385-c50a-411b-a32a-5cdda775a3b6">
 </a>
 </div>
