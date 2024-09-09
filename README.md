@@ -21,15 +21,15 @@
 
 
 <a href="https://mail.google.com/mail/u/0/#inbox">
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/ce891edf-9d35-4fba-97e1-b8e4d3d858d3">
 </a>
 
 
-<a  href="https://www.linkedin.com/in/carolbarbosa/" target=_blank>
+<a  href="https://www.linkedin.com/in/joseffer-maxwel-4309ab243/" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
 </a>
 
-<a  href="https://www.linkedin.com/in/carolbarbosa/" target=_blank>
+<a  href="https://www.facebook.com/profile.php?id=100017071926582" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
 </a>
 </div>
