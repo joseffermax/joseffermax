@@ -2,6 +2,7 @@
 <br>
 <br>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=4000&pause=1000&color=FFFFFF&center=true&width=500&lines=Hey!+I+am+Joseffer;Future+Network+Manager)](https://git.io/typing-svg)
 
 <br>
@@ -39,25 +40,32 @@
 ![Ashutosh's github activity graph](https://github.com/user-attachments/assets/2e509582-68ab-4267-be65-8b9c06a3562b) 
 
 </div>
+<div align="center">
+   Main Skills:
+</div>
+<div align="center"> 
+<img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/f09571a3-31d8-4ed6-b37b-ab3c767a7d99">
 
-### Main skills:
-<div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/f09571a3-31d8-4ed6-b37b-ab3c767a7d99">
+<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
 
-<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/adbdf03e-ec65-4b7d-a17b-250859bd8e69">
 
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/adbdf03e-ec65-4b7d-a17b-250859bd8e69">
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/2ad3c8f6-a05e-4381-b722-6e2ec92784a5">
 
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/2ad3c8f6-a05e-4381-b722-6e2ec92784a5">
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/6eb959a0-9384-489b-9faf-22e9120afa5e">
 
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/6eb959a0-9384-489b-9faf-22e9120afa5e">
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/dc596484-d486-4694-b3e8-a781f54d0b15">
 
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/dc596484-d486-4694-b3e8-a781f54d0b15">
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/c005cd12-7961-4fbf-a3b5-9e6731558ad3">
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/c005cd12-7961-4fbf-a3b5-9e6731558ad3">
 
 </div>
+<br>
+<br>
 
+  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjoseffermax&s=45&c=9046ff&bg=00000000&no=7&ff=electrolize&tb=Visitors%3A+&ta=" /></p> 
+<br>
+</div>
 
