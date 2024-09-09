@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=350&size=34&pause=1000&color=9046FF&width=435&lines=Hey!+I+am+Joseffer;Welcome+to+my+profile!;Future+Network+Manager" alt="Typing SVG">
   </a>
 </div>
-<br>
+
 <br>
 
 <div align="center">
@@ -15,7 +15,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joseffermax&theme=midnight-purple&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 </div>
-
+<br>
 
 <div align="center"> 
 <a href="https://www.instagram.com/joseffermax_" target="_blank">
@@ -36,17 +36,13 @@
 <img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/410ff385-c50a-411b-a32a-5cdda775a3b6">
 </a>
 </div>
-
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://github.com/user-attachments/assets/2e509582-68ab-4267-be65-8b9c06a3562b) 
-
+<br>
+<br>
+<div align="center">
+  <img width="19%" src="https://img.shields.io/badge/Main_Skills-%239046FF?style=flat&logo=appveyor" alt="Main Skills">
 </div>
-![Main Skills](https://img.shields.io/badge/Main_Skills-%239046FF?style=flat&logo=appveyor)
-
-
-
-
+<br>
+<br>
 <div align="center"> 
 <img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/f09571a3-31d8-4ed6-b37b-ab3c767a7d99">
 
