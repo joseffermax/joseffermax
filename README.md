@@ -1,10 +1,12 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/d5284642-404e-4d30-a0c9-6de13863c85d"/>
 <br>
 <br>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=4000&pause=1000&color=FFFFFF&center=true&width=500&lines=Hey!+I+am+Joseffer;Future+Network+Manager)](https://git.io/typing-svg)
-
+<br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=350&size=34&pause=1000&color=9046FF&width=435&lines=Hey!+I+am+Joseffer;Welcome+to+my+profile!;Future+Network+Manager" alt="Typing SVG">
+  </a>
+</div>
 <br>
 <br>
 
@@ -40,9 +42,11 @@
 ![Ashutosh's github activity graph](https://github.com/user-attachments/assets/2e509582-68ab-4267-be65-8b9c06a3562b) 
 
 </div>
-<div align="center">
-   Main Skills:
-</div>
+![Main Skills](https://img.shields.io/badge/Main_Skills-%239046FF?style=flat&logo=appveyor)
+
+
+
+
 <div align="center"> 
 <img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/f09571a3-31d8-4ed6-b37b-ab3c767a7d99">
 
@@ -65,7 +69,9 @@
 <br>
 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjoseffermax&s=45&c=9046ff&bg=00000000&no=7&ff=electrolize&tb=Visitors%3A+&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjoseffermax&s=30&c=9046ff&bg=00000000&no=1&ff=electrolize&tb=Visitors%3A+&ta=" /></p> 
 <br>
 </div>
+
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/b909acf5-7803-4f63-8211-748aa3577580"/>
 
