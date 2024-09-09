@@ -37,10 +37,8 @@
 </a>
 </div>
 <br>
-<br>
-<div align="center">
-  <img width="19%" src="https://img.shields.io/badge/Main_Skills-%239046FF?style=flat&logo=appveyor" alt="Main Skills">
-</div>
+<div align="center"> 
+<img src="https://ssr-contributions-svg.vercel.app/_/joseffermax?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple"/>  
 <br>
 <br>
 <div align="center"> 
@@ -65,7 +63,7 @@
 <br>
 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjoseffermax&s=30&c=9046ff&bg=00000000&no=1&ff=electrolize&tb=Visitors%3A+&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjoseffermax&s=30&c=9046ff&bg=00000000&no=7&ff=electrolize&tb=Visitors%3A+&ta=" /></p> 
 <br>
 </div>
 
