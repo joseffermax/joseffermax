@@ -16,7 +16,11 @@
 
 </div>
 <br>
-
+<div align="center">
+  <img width="20%" src="https://img.shields.io/badge/Social_Links-%239046FF?style=flat&logo=appveyor" alt="Social Links">
+</div>
+<br>
+<br>
 <div align="center"> 
 <a href="https://www.instagram.com/joseffermax_" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
@@ -41,6 +45,11 @@
 <img src="https://ssr-contributions-svg.vercel.app/_/joseffermax?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple"/>  
 <br>
 <br>
+  <div align="center">
+  <img width="20%" src="https://img.shields.io/badge/Main_Skills-%239046FF?style=flat&logo=appveyor" alt="Main Skills">
+</div>
+<br>
+<br>
 <div align="center"> 
 <img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/f09571a3-31d8-4ed6-b37b-ab3c767a7d99">
 
@@ -61,10 +70,7 @@
 </div>
 <br>
 <br>
-
-  
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjoseffermax&s=30&c=9046ff&bg=00000000&no=7&ff=electrolize&tb=Visitors%3A+&ta=" /></p> 
-<br>
 </div>
 
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/b909acf5-7803-4f63-8211-748aa3577580"/>
