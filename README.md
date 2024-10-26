@@ -17,7 +17,7 @@
 </div>
 <br>
 <div align="center">
-  <img width="20%" src="https://img.shields.io/badge/Social_Links-%239046FF?style=flat&logo=appveyor" alt="Social Links">
+  <img width="18%" src="https://img.shields.io/badge/Social_Links-%239046FF?style=flat&logo=appveyor" alt="Social Links">
 </div>
 <br>
 <br>
@@ -46,7 +46,7 @@
 <br>
 <br>
   <div align="center">
-  <img width="20%" src="https://img.shields.io/badge/Main_Skills-%239046FF?style=flat&logo=appveyor" alt="Main Skills">
+  <img width="18%" src="https://img.shields.io/badge/Main_Skills-%239046FF?style=flat&logo=appveyor" alt="Main Skills">
 </div>
 <br>
 <br>
@@ -70,8 +70,12 @@
 </div>
 <br>
 <br>
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjoseffermax&s=30&c=9046ff&bg=00000000&no=7&ff=electrolize&tb=Visitors%3A+&ta=" /></p> 
+<div align="center">
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjoseffermax&s=30&c=9046ff&bg=00000000&no=7&ff=electrolize&tb=Visitors%3A+&ta=" width="435" height="40" alt="Visit Counter">
 </div>
+<br>
+<br>
+<br>
 
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/b909acf5-7803-4f63-8211-748aa3577580"/>
 
