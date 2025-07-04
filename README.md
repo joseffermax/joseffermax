@@ -36,8 +36,12 @@
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
 </a>
 
-<a  href="https://www.facebook.com/profile.php?id=100017071926582" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/410ff385-c50a-411b-a32a-5cdda775a3b6">
+<a  href="https://www.credly.com/users/joseffer-maxwel" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/81c57470-0a2e-4e1a-b1bc-167a4ddbdc50">
+
+<a  href="https://lattes.cnpq.br/2695955591585329" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/b1f6c7a9-0e9c-4e24-8686-83eeaaef2e30">
+  
 </a>
 </div>
 <br>
@@ -66,6 +70,9 @@
 <img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/dc596484-d486-4694-b3e8-a781f54d0b15">
 
 <img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/c005cd12-7961-4fbf-a3b5-9e6731558ad3">
+
+<img align="center"  height="87" width="87" src="https://github.com/user-attachments/assets/7381db95-ea6a-4cc8-baf8-12822af6cfeb">
+
 
 </div>
 <br>
